@@ -47,3 +47,4 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 
 // Add Two For Test From Local
 // edit local push origin for test
+// edit from remote pull origin for test
